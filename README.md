@@ -5,6 +5,6 @@
     </li>
 <br>
   <li>
-<b>A simple messages interface.</b> Link - https://www.figma.com/file/6wLCdENYbxyo3VIc2NmygH/Messages-Interface?type=design&node-id=0%3A1&mode=dev&t=bQgZcu088kY427p6-1
+<b>A simple messages interface.</b> <br> Link - https://www.figma.com/file/6wLCdENYbxyo3VIc2NmygH/Messages-Interface?type=design&node-id=0%3A1&mode=dev&t=bQgZcu088kY427p6-1
 </li>
 </ul>
