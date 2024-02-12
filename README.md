@@ -1,10 +1,10 @@
 # UI-Designs
 <ul>
   <li>
-<b>A Payment Marchant Application using by Figma Desktop.</b>. <br> Link - https://www.figma.com/file/uxDrh4w8ZQRYFQL6ZjCQd9/Payment-merchant-app?type=design&node-id=0%3A1&mode=dev&t=DCM49wn0ucSUFM6R-1
+<b>A Payment Marchant Application using by Figma Desktop.</b>. <br> Link - <i> https://www.figma.com/file/uxDrh4w8ZQRYFQL6ZjCQd9/Payment-merchant-app?type=design&node-id=0%3A1&mode=dev&t=DCM49wn0ucSUFM6R-1 </i>
     </li>
 <br>
   <li>
-<b>A simple messages interface.</b> <br> Link - https://www.figma.com/file/6wLCdENYbxyo3VIc2NmygH/Messages-Interface?type=design&node-id=0%3A1&mode=dev&t=bQgZcu088kY427p6-1
+<b>A simple messages interface.</b> <br> Link - <i> https://www.figma.com/file/6wLCdENYbxyo3VIc2NmygH/Messages-Interface?type=design&node-id=0%3A1&mode=dev&t=bQgZcu088kY427p6-1 </i>
 </li>
 </ul>
